@@ -1,0 +1,3 @@
+[submodule "CommonClasses"]
+	path = CommonClasses
+	url = https://github.com/NickolayYarovoy/AspireCommonClasses
